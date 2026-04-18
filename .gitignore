@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+zenspace_final.db
+chat_history.json
+ZenTrash_Vault/
